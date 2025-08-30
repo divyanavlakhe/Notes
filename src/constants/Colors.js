@@ -1,0 +1,11 @@
+export const BLACK = '#000000';
+export const LIGHT_GRAY = '#555';
+export const LIGHT_GRAY_BORDER = '#EDEDED';
+export const BORDER_COLOR = '#e0e0e0';
+export const GRAY = '#7B7B7B';
+export const GUNMETAL = '#292d32';
+export const TRANSPARENT = '#00000000';
+export const BACKGROUNDCOLOR = '#EAF6F4';
+export const WHITE = '#FFFFFF';
+export const RED = '#CC0A0A';
+export const THEAME_COLOR = '#7A5AF8';
